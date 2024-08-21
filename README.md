@@ -1,1 +1,1 @@
-[# Javascript](https://igorgo.nl/article/js-arrays-cheatsheet)
+[# Javascrip Array Method](https://igorgo.nl/article/js-arrays-cheatsheet)
